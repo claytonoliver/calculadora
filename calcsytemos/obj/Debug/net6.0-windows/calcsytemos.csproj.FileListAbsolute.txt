@@ -1,0 +1,17 @@
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\bin\Debug\net6.0-windows\calcsytemos.exe
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\bin\Debug\net6.0-windows\calcsytemos.deps.json
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\bin\Debug\net6.0-windows\calcsytemos.runtimeconfig.json
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\bin\Debug\net6.0-windows\calcsytemos.dll
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\bin\Debug\net6.0-windows\calcsytemos.pdb
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.csproj.AssemblyReference.cache
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.Form1.resources
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.csproj.GenerateResource.cache
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.AssemblyInfoInputs.cache
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.AssemblyInfo.cs
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.csproj.CoreCompileInputs.cache
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.dll
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\refint\calcsytemos.dll
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.pdb
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\calcsytemos.genruntimeconfig.cache
+C:\Users\clayt\source\repos\calcsytemos\calcsytemos\obj\Debug\net6.0-windows\ref\calcsytemos.dll
